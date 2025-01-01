@@ -1,5 +1,5 @@
-# Personal-Diet-and-Exercise-Tracker
-A CLI based application to practice OOP principles in C++. The application helps users manage their diet and exercise routines. Users can create profiles, track their daily calorie intake and expenditure, and manage their personal information.
+# Personal Diet and Exercise Tracker
+A CLI based application to practice OOP principles in C++. The application helps users manage their diet and exercise routines. Users can create profiles, track their daily calorie intake and expenditure, and manage their personal information. Additionally, unit test modules have also been included.
 
 ## Features
 
